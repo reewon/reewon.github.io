@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Reewon"
-  avatar           : "C:\Users\kiosu\OneDrive\사진\카메라 앨범\profile.jpg"
+  avatar           : "images/profiles/profile.jpg"
   bio              : "기록이 자산!"
   location         : "South Korea"
   email            : 
